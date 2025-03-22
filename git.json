@@ -25,7 +25,7 @@
         "p_sink_file" : "AdventureWorks_Products.csv"
     },
     {
-        "p_rel_url" : "MaheshKumbhar0880/Azure_raw_data/refs/heads/mainAdventureWorks_Returns.csv",
+        "p_rel_url" : "MaheshKumbhar0880/Azure_raw_data/refs/heads/main/AdventureWorks_Returns.csv",
         "p_sink_folder" : "AdventureWorks_Returns",
         "p_sink_file":"AdventureWorks_Returns.csv"
     },
